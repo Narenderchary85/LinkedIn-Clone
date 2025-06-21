@@ -25,6 +25,7 @@ const NavBar = () => {
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
+  
   const handleLogout = () => {
     dispatch(logoutUser());
     navigate('/');
