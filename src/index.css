@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+:root {
+  --custom-gray: #f4f5ed;
+}
+
+.bg-custom-gray {
+  background-color: var(--custom-gray);
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
