@@ -1,6 +1,6 @@
 <h2>Live Demo<h2>
 
-[Click here to view the live demo](https://linked-in-clone-react-xi.vercel.app/home)
+[Click here to view the live demo](https://linked-in-clone-xi-three.vercel.app/)
   
 <h1>SignUp Page</h1>
 
