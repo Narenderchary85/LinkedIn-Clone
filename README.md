@@ -1,12 +1,36 @@
-# React + Vite
+<h2>Live Demo<h2>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[Click here to view the live demo](https://linked-in-clone-xi-three.vercel.app/)
+  
+<h1>Home Page</h1>
 
-Currently, two official plugins are available:
+![Alt Text](https://github.com/Narenderchary85/LinkedIn-Clone/blob/main/public/HomePage.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h1>Profile Page</h1>
 
-## Expanding the ESLint configuration
+![Alt Text](https://github.com/Narenderchary85/LinkedIn-Clone/blob/main/public/Profile.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<h1>Sign Up Page</h1>
+
+![Alt Text](https://github.com/Narenderchary85/LinkedIn-Clone/blob/main/public/SignUp.png)
+
+<h1>Connections Page</h1>
+
+![Alt Text](https://github.com/Narenderchary85/LinkedIn-Clone/blob/main/public/Connection.png)
+
+<h1>Add post</h1>
+
+![Alt Text](https://github.com/Narenderchary85/LinkedIn-Clone/blob/main/public/Add-Post.png)
+
+<h1>Jobs section Page</h1>
+
+![Alt Text](https://github.com/Narenderchary85/LinkedIn-Clone/blob/main/public/Jobs.png)
+
+<h1>Message Page</h1>
+
+![Alt Text](https://github.com/Narenderchary85/LinkedIn-Clone/blob/main/public/Message.png)
+
+<h1>Notification Page</h1>
+
+![Alt Text](https://github.com/Narenderchary85/LinkedIn-Clone/blob/main/public/Notifications.png)
+
